@@ -16,3 +16,5 @@ Results:
 - 1st place in state challenge
 - 1st place in national challenge
 - 1st place in international challenge
+
+Note: All engineering design notebooks were written and compiled in Overleaf (overleaf.com) using LaTeX.
