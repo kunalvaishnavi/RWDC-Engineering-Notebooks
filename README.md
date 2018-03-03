@@ -1,20 +1,17 @@
 # RWDC Engineering Notebooks
-# All of the engineering design notebooks that I've worked on for RWDC
-# Captain and president since 2015 (10th grade)
 
 Background:
-
-Visit realworlddesignchallenge.org for an explanation of the competition.
+Visit the [RWDC website](www.realworlddesignchallenge.org) for an explanation of the competition.
 
 Results:
 
-2015-2016 (10th grade):
+2015-2016 (10th grade, co-captain/co-president):
 - 1st place in state challenge
 - 2nd place in national challenge
 
-2016-2017 (11th grade):
+2016-2017 (11th grade, captain/president):
 - 1st place in state challenge
 - 1st place in national challenge
 - 1st place in international challenge
 
-Note: All engineering design notebooks were written and compiled in Overleaf (overleaf.com) using LaTeX.
+Note: All engineering design notebooks were written and compiled in [Overleaf](www.overleaf.com) using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
