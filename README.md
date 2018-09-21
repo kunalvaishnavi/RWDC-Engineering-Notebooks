@@ -14,4 +14,4 @@ Results:
 - 1st place in national challenge
 - 1st place in international challenge
 
-Note: All engineering design notebooks were written and compiled in [Overleaf](www.overleaf.com) using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
+Note: All engineering design notebooks were written and compiled in [Overleaf](https://www.overleaf.com) using [LaTeX](https://en.wikipedia.org/wiki/LaTeX).
